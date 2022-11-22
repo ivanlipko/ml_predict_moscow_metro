@@ -44,7 +44,3 @@ SS tot - общая сумма ошибок.
 Для выбросов пока не решил, либо строить отдельно, либо генерить наиболее ппоулярные ответы.
 
 
-
-# ml_predict_moscow_metro
-# ml_predict_moscow_metro
-# ml_predict_moscow_metro
